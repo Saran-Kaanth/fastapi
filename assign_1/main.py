@@ -11,13 +11,10 @@ async def create_student_api(student_data:schemas.StudentIn):
     student=crud.create_student(student_data)
     if student:
         return {"message":"Student added successfully"}
-    # return Response({"message":"Check the id or enter the suitable values"},status_code=status.HTTP_400_BAD_REQUEST)
     return {"message":"student is already existed"}
 
 @app.get("/get_student/{student_id}",tags=["students"])
 async def get_student_by_id_api(student_id:int):
-    # print(student_id)
-    # print(database.student_data)
     student=crud.get_student_by_id(student_id)
     if student:
         return {"name":student["name"],
