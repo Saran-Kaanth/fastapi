@@ -1,0 +1,12 @@
+student_data=[{'student_id':1 ,'name':'Koustubh', 'maths':98, 'phy':99, 'chem':78, 'english':55, 'sanskrit':100},
+              {'student_id':2 ,'name':'saran', 'maths':80, 'phy':67, 'chem':78, 'english':45, 'sanskrit':63},
+              {'student_id':3 ,'name':'sam', 'maths':60, 'phy':99, 'chem':78, 'english':55, 'sanskrit':100},
+              {'student_id':4 ,'name':'aparna', 'maths':70, 'phy':79, 'chem':68, 'english':53, 'sanskrit':40},
+              {'student_id':5 ,'name':'meena', 'maths':97, 'phy':78, 'chem':58, 'english':23, 'sanskrit':50},
+              {'student_id':6 ,'name':'logiya', 'maths':78, 'phy':99, 'chem':78, 'english':55, 'sanskrit':100},
+              {'student_id':7 ,'name':'gowsika', 'maths':67, 'phy':34, 'chem':54, 'english':76, 'sanskrit':13},
+              {'student_id':8 ,'name':'kayal', 'maths':80, 'phy':79, 'chem':92, 'english':67, 'sanskrit':10},
+              {'student_id':9 ,'name':'bharathi', 'maths':89, 'phy':99, 'chem':34, 'english':56, 'sanskrit':78},
+              {'student_id':10 ,'name':'jack', 'maths':87, 'phy':44, 'chem':55, 'english':33, 'sanskrit':66},
+              {'student_id':11,'name':'renga', 'maths':56, 'phy':99, 'chem':78, 'english':55, 'sanskrit':71},
+]
