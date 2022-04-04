@@ -1,9 +1,6 @@
-from os import sep
-import string
 import pandas as pd
 from fastapi import FastAPI,status
 from fastapi.responses import JSONResponse,Response
-from pydantic import JsonError
 
 app=FastAPI()
 
